@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.infomation{
+    background: #ff9f23;
+}
+.infomation ul li{
+    list-style: none;
+    display: grid;
+    padding: 8px 12px;
+    position: relative;}
+
+.infomation ul li a{
+    color: black;
+    text-decoration: underline;
+    font-size: 10px;
+}
+.notes{
+    font-display: block;
+    font-style: oblique;
+    padding: 8px 12px;  
+}
